@@ -8,3 +8,4 @@ Una vez guardado, se crea el link o enlace (como ejemplo se tiene el de esta pub
 
 Teniendo esto se puede visualizar el código para el cliente y que se pueda mandar a prod.
 **Nota**: Únicamente se puede subir el código del archivo `.ipynb`.
+**Nota 2**: Esto no funciona con archivos `.ipynb` con contenido gráfico interactivo tipo `Plotly`.
